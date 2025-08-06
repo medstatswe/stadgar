@@ -107,6 +107,7 @@ Beslut om stadgeändring fattas på årsmöte med minst två tredjedelars majori
 
 Förslag om sådan ändring ska vara väckt på tidigare styrelsesammanträde och ska vara intaget i kallelsen till årsmötet.
 
+För beslut om föreningens säte räcker det emellertid med enkelt majoritetsbeslut vid ett möte förutsatt att man vid samma möte väljer ny styrelse utan förankring till tidigare säte.
 
 = Upplösning av föreningen
 För upplösning av föreningen krävs beslut på två på varandra följande möten med minst en månads mellanrum.
