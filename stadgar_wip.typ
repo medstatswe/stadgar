@@ -119,7 +119,7 @@ Sådant beslut kräver minst 2/3 av antalet avgivna röster.
 #rubrik("Medlemmar") // -------------------------------------
 
 = Medlemskap #highlight[§ 3]
-Medlem i föreningen kan den person bli som har intresse för, eller anknytning till, medicinsk statistik och som stöder föreningens ändamål.
+Medlem i föreningen kan den fysiska person bli som har intresse för, eller anknytning till, medicinsk statistik och som stöder föreningens ändamål.
 
 Ansökan om medlemskap ska godkännas av föreningens styrelse.
 
