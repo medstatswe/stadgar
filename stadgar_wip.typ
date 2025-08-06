@@ -136,7 +136,7 @@ Medlem som inte har betalat medlemsavgift senast den 31 december får anses ha b
 = Uteslutning
 Medlem får inte uteslutas ur föreningen av annan anledning än att denne har försummat att betala av föreningen beslutade avgifter, motarbetat föreningens verksamhet eller ändamål, eller uppenbarligen skadat föreningens intressen.
 
-Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid,minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts.
+Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts.
 
 
 = Rättigheter och skyldigheter
