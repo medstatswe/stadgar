@@ -239,7 +239,7 @@ Vid extra årsmöte får endast det som föranlett mötet upptas till behandling
 
 = Valberedning
 
-Valberedningen består av tre ledamöter, varav en sammankallande, valda av årsmötet på 1 år. Valberedningen sammanträder när ordföranden eller minst halva antalet ledamöter så bestämmer.
+Valberedningen består av tre ledamöter, valda av årsmötet på 1 år. Valberedningen sammanträder när ordföranden eller minst halva antalet ledamöter så bestämmer.
 
 #highlight[§ 7:] Till årsmötet ska valberedningen framlägga förslag till ordförande, sekreterare, kassör och övriga styrelseledamöter, representant till Svenska statistikfrämjandets styrelse, två revisorer samt representanter till externa organisationer, t.ex. EFSPI.
 
