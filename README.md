@@ -33,6 +33,10 @@ Tankar och funderingar kring ändrringar från arbetsdokumentet förs via GitHub
 Ändringar kan också föreslås direkt i arbetsdokumentet via GitHub, vilket då blir versionshanterat. 
 Det är inte nödvändigt att ha Typst installerat lokalt, utan det går att redigera direkt i GitHub-gränssnittet.
 
+Efter diskussion i detta repo framläggs ett förslag till revidering inför föreningens styrelse. 
+Väljer styrelsen att anta förslaget presenteras det därefter som en proposition vid framtida årsmöte.
+Väljer sedan årsmötet att anta förslaget (enligt beslutsprocess i stadgarna version 6) blir det nya förslaget därefter giltigt. 
+
 ## Publicering
 
-Efter att stadgarna antagits av årsmötet kommer de att publiceras på föreningens hemsida etc och då är det en statisk PDF-version som gäller (vilket också kan släppas som en release i detta repository).
+Efter att stadgarna eventuellt antagits av årsmötet kommer de att publiceras på föreningens hemsida etc och då är det en statisk PDF-version som gäller (vilket också kan släppas som en release i detta repository).
