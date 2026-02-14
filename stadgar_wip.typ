@@ -114,7 +114,7 @@ För upplösning av föreningen krävs beslut på två på varandra följande m�
 
 Minst ett av mötena ska vara årsmöte, och max ett får vara extra årsmöte.
 
-Sådant beslut kräver minst 2/3 av antalet avgivna röster.
+Sådant beslut fattas med minst två tredjedelars majoritet.
 
 
 #rubrik("Medlemmar") // -------------------------------------
@@ -128,12 +128,14 @@ Föreningens medlemmar ska också vara medlemmar i Svenska statistikfrämjandet,
 
 
 = Utträde
-Medlem som vill utträda ur föreningen, skall skriftligen anmäla detta till styrelsen och anses därmed omedelbart ha lämnat föreningen.
+Medlem som vill utträda ur föreningen, skall skriftligen anmäla detta till styrelsen och anses därmed omedelbart ha lämnat föreningen. Medlemsavgift för det innevarande året kommer inte att återbetalas i sådana fall.
 
 Medlem som inte har betalat medlemsavgift senast den 31 december får anses ha begärt sitt utträde ur föreningen.
 
 
 = Uteslutning
+Beslut om uteslutning av medlem fattas av styrelsen med minst två tredjedels majoritet. 
+
 Medlem får inte uteslutas ur föreningen av annan anledning än att denne har försummat att betala av föreningen beslutade avgifter, motarbetat föreningens verksamhet eller ändamål, eller uppenbarligen skadat föreningens intressen.
 
 Beslut om uteslutning eller varning får inte fattas utan att medlemmen inom viss tid, minst 14 dagar, fått tillfälle att yttra sig över de omständigheter som föranlett att medlemskapet ifrågasätts.
