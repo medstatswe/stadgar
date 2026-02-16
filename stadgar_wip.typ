@@ -99,8 +99,6 @@ Uppstår tvekan om tolkningen av dessa stadgar, eller om fall förekommer som in
 
 I brådskande fall får frågan avgöras av styrelsen.
 
-Talan i tvist gällande stadgarna mellan medlem och föreningen får inte väckas vid allmän domstol. Sådan tvist skall, utom i fall då annan särskild ordning är föreskriven, avgöras enligt lagen om skiljeförfarande. Dock skall följande gälla rörande kostnaderna för skiljeförfarandet. Vardera parten svarar för egna kostnader liksom för kostnaderna för den skiljeman man utsett. Kostnaderna för ordförande och sekreterare, delas lika mellan parterna.
-
 
 = Stadgeändring #highlight[§ 9]
 Beslut om stadgeändring fattas på årsmöte med minst två tredjedelars majoritet.
@@ -114,7 +112,7 @@ För upplösning av föreningen krävs beslut på två på varandra följande m�
 
 Minst ett av mötena ska vara årsmöte, och max ett får vara extra årsmöte.
 
-Sådant beslut fattas med minst två tredjedelars majoritet.
+Sådant beslut fattas med minst två tredjedelars majoritet vid respektive möte.
 
 
 #rubrik("Medlemmar") // -------------------------------------
@@ -157,25 +155,25 @@ Medlem skall:
 
 = Tidpunkt och kallelse
 
-Årsmötet, som är föreningens högsta beslutande organ, hålls före utgången av *april?* månad på tid och plats som styrelsen bestämmer.
+Årsmötet, som är föreningens högsta beslutande organ, hålls före utgången av april månad på tid och plats som styrelsen bestämmer.
 
-Kallelse till årsmöte ska skickas minst två veckor före mötet. Kallelse till övriga föreningsmöten och styrelsesammanträde ska tillsammans med ärendelista skickas minst en vecka före mötet (sammanträdet). #highlight[§ 4]
+Kallelse till årsmöte ska tillsammans med ärendelista och handlingar skickas minst två veckor före mötet. #highlight[§ 4]
 
 Har förslag väckts om stadgeändring, nedläggning eller sammanslagning av föreningen med annan förening eller annan fråga av väsentlig betydelse för föreningen eller dess medlemmar skall det anges i kallelsen.
 
 
 = Motioner och propositioner
-Både styrelsen som medlemmar får lämna förslag att behandlas av årsmötet.
-
-Förslag från styrelsen heter propositioner och förslag från medlemmarna heter motioner.
+Både styrelsen som medlemmar får lämna förslag att behandlas av årsmötet. Förslag från styrelsen heter propositioner och förslag från medlemmarna heter motioner.
 
 Motioner skall vara styrelsen tillhanda senast fyra veckor före årsmötet.
 
 Styrelsen skall till årsmötet avge skriftligt yttrande över förslaget.
 
+Eventuella propositioner, motioner och styrelsens svar på motioner skall bifogas kallelsen till mötet.
+
 
 = Röst-, yttrande- och förslagsrätt
-Medlem som har betalt medlemsavgiften senast 30 dagar före mötet och under mötesåret fyller lägst 15 år är röstberättigad.
+Medlem som har betalt medlemsavgiften senast vid kallelsen till mötet och under mötesåret fyller lägst 15 år är röstberättigad.
 
 Rösträtten är personlig och får inte utövas genom ombud.
 
@@ -191,44 +189,54 @@ Mötet är beslutsmässigt med det antal röstberättigade medlemmar som är nä
 = Beslut och omröstning #highlight[§ 8]
 Omröstning vid föreningsmöte och årsmöte sker öppet; val sker dock med sluten omröstning om någon medlem begär det.
 
-Alla beslut fattas med enkel majoritet bland närvarande medlemmar med undantag för stadgeändringar [eller beslut om nedläggning].
+Alla beslut fattas med enkel majoritet bland närvarande medlemmar med undantag för stadgeändringar eller beslut om nedläggning.
 
 Vid lika röstetal gäller den mening som ordföranden vid mötet biträder; vid sluten omröstning skiljer dock lotten.
 
 
-= Valbarhet #highlight[Hmmm ...]
+= Valbarhet
 
-Valbar till styrelse och valberedning är röstberättigad medlem som fyllt 18 år.
+Valbar till styrelse och valberedning är medlem som fyllt 18 år.
 
 Anställd i föreningen får dock inte väljas till ledamot av styrelsen, valberedningen eller till revisor i föreningen.
 
 
 = Ärenden vid årsmöte  #highlight[§ 5]
 
-Vid föreningens årsmöte ska förekomma:
+Vid föreningens årsmöte skall följande behandlas och protokollföras:
 
-+ val av ordförande och protokollssekreterare för årsmötet,
-+ val av medlem att jämte ordföranden justera dagens protokoll,
-+ styrelsens berättelse samt fråga om ansvarsfrihet för styrelsen,
-+ val av ordförande, sekreterare, kassör samt övriga styrelseledamöter,
-+ förslag till representant i Svenska Statistikfrämjandets styrelse, som också är medlem eller adjungerad medlem i FMS styrelse,
-+ val av två revisorer,
-+ val av valberedning om tre personer,
-+ val av representanter till externa organisationer, t.ex. EFSPI,
-+ fastställande av eventuella årsavgifter.
++ Mötets öppnas
++ Fastställande av röstlängd för mötet
++ Val av ordförande och sekreterare för mötet
++ Val av 2 protokolljusterare och 2 rösträknare
++ Fråga om mötets behöriga utlysande
++ Fastställande av dagordning
++ Styrelsens verksamhetsberättelse
++ Styrelsens förvaltningsberättelse
++ Revisorernas berättelse
++ Fråga om ansvarsfrihet för styrelsen för den tid revisionen avser
++ Fastställande av medlemsavgifter för nästkommande verksamhetsår
++ Behandling av propositioner och motioner
++ Val av
+a)	ordförande, sekreterare och kassör samt övriga styrelseledamöter,
+b)	representant i Svenska Statistikfrämjandets styrelse, som också är medlem eller adjungerad medlem i FMS styrelse,
+c)	två revisorer,
+d)	valberedning om tre personer,
+a)	val av representanter till externa organisationer, t.ex. EFSPI
++ Mötets avslutande
 
 
 = Extra årsmöte
 
 Styrelsen kan kalla medlemmarna till extra årsmöte.
 
-Styrelsen är skyldig att kalla till extra årsmöte när en revisor eller minst 10 % av föreningens röstberättigade medlemmar begär det.
+Styrelsen är skyldig att kalla till extra årsmöte när en revisor eller minst 10 % av föreningens medlemmar begär det.
 
 Sådan framställning skall göras skriftligen och innehålla skälen för begäran.
 
 När styrelsen mottagit en begäran om extra årsmöte skall styrelsen inom 14 dagar utlysa sådant möte att hållas inom två månader från erhållen begäran.
 
-Kallelse med förslag till föredragningslista för extra årsmöte skall tillställas medlemmarna senast sju dagar före mötet på det sätt styrelsen bestämt.
+Kallelse med förslag till föredragningslista för extra årsmöte skall tillställas medlemmarna senast sju dagar före mötet på det sätt styrelsen bestämt. #highlight[§ 4]
 
 Underlåter styrelsen att utlysa eller kalla till extra årsmöte får de som begärt ett extra årsmöte kalla till mötet.
 
@@ -241,7 +249,7 @@ Vid extra årsmöte får endast det som föranlett mötet upptas till behandling
 
 = Valberedning
 
-Valberedningen består av tre ledamöter, valda av årsmötet på 1 år. Valberedningen sammanträder när ordföranden eller minst halva antalet ledamöter så bestämmer.
+Valberedningen består av tre ledamöter, valda av årsmötet på ett (1) år. Valberedningen sammanträder minst halva antalet ledamöter så bestämmer.
 
 #highlight[§ 7:] Till årsmötet ska valberedningen framlägga förslag till ordförande, sekreterare, kassör och övriga styrelseledamöter, representant till Svenska statistikfrämjandets styrelse, två revisorer samt representanter till externa organisationer, t.ex. EFSPI.
 
@@ -284,24 +292,23 @@ Det åligger styrelsen särskilt
 
 = Kallelse, beslutsmässighet och omröstning
 
-Styrelsen sammanträder efter kallelse av ordföranden, eller då minst halva antalet ledamöter har begärt det.
+Styrelsen sammanträder efter kallelse av ordföranden, eller då minst halva antalet ledamöter har begärt det. #highlight[§ 6]
 
-Styrelsen är beslutsmässig när samtliga ledamöter kallats och då minst halva antalet ledamöter är närvarande.
+Kallelse bör tillsammans med ärendelista skickas minst en vecka före mötet #highlight[§ 4]
 
-#highlight[§ 6] Ett beslut i styrelsen är giltigt om det bifalls av minst hälften av styrelsens ledamöter. Vid lika röstetal har ordföranden utslagsröst.
+Styrelsen är beslutsmässig när samtliga ledamöter kallats och då minst halva antalet ledamöter är närvarande. #highlight[ung. § 6]
 
 I brådskande fall får ordföranden besluta att ärende skall avgöras per capsulam. Om särskilt protokoll inte upprättas skall sådant beslut anmälas vid det närmast därefter följande sammanträdet.
 
-Vid styrelsemöte skall protokoll föras. Protokoll skall signeras av mötessekreterare samt signeras och justeras av en eller flera utsedda protokolljusterare. Avvikande mening skall antecknas till protokollet.
+Vid styrelsemöte skall protokoll föras. Protokollet ska godkännas av mötessekreteraren och justeras av utsedd(a) protokolljusterare. 
+
+Avvikande mening skall antecknas till protokollet.
 
 
 = Överlåtelse av beslutanderätten
 
-Styrelsen får överlåta sin beslutanderätt i enskilda ärenden eller i vissa grupper av ärenden till sektion, kommitté eller annat organ eller till enskild medlem eller anställd.
+Styrelsen får överlåta sin beslutanderätt i enskilda ärenden eller i vissa grupper av ärenden till kommitté, annat organ eller till enskild medlem.
 
 Den som fattat beslut med stöd av bemyndigande skall fortlöpande underrätta styrelsen härom.
 
 #highlight[§ 10] Föreningens representanter i externa organisationer, t.ex. EFSPI, ska återkommande rapportera till styrelsen.
-
-
-
